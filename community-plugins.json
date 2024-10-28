@@ -13610,7 +13610,7 @@
   {
     "id": "daily-note-calendar",
     "name": "Daily notes calendar",
-    "author": "Bart Kessels",
+    "author": "bartkessels",
     "description": "A plugin to easily navigate to your daily notes using a calendar view.",
     "repo": "bartkessels/daily-note-calendar"
   }
