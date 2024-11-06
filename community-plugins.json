@@ -13740,12 +13740,19 @@
 	"author": "Alexey Sedoykin",
 	"description": "Find and highlight all occurrences of selected text in notes, similar to Notepad++ or IDEs.",
 	"repo": "Krusty84/obsidian-occura-plugin"
-    },
+  },
   {
     "id": "callout-toggles",
     "name": "Callout Toggles",
     "author": "Aly Thobani",
     "description": "Quickly add, change, or remove callouts in your notes.",
     "repo": "alythobani/obsidian-callout-toggles"
+  },
+  {
+    "id": "daily-note-calendar",
+    "name": "Daily notes calendar",
+    "author": "bartkessels",
+    "description": "A plugin to easily navigate to your daily notes using a calendar view.",
+    "repo": "bartkessels/daily-note-calendar"
   }
 ]
