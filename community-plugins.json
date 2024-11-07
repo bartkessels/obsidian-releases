@@ -13752,7 +13752,7 @@
     "id": "daily-note-calendar",
     "name": "Daily notes calendar",
     "author": "bartkessels",
-    "description": "A plugin to easily navigate to your daily notes using a calendar view.",
+    "description": "Navigate to your weekly- and daily-notes using a calendar view.",
     "repo": "bartkessels/daily-note-calendar"
   }
 ]
